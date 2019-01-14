@@ -3,7 +3,7 @@ def my_hash
   my_hash = {"Breakfast" => "Eggs", "Lunch"=> "Chicken Nuggets", "Supper" => "Tacos"
   }
   return Elena
-  
+
 
 end
 
